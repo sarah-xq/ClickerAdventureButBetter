@@ -1,14 +1,18 @@
-# PROJECT NAME
+# ClickerAdventureButBetter
 
 ## Goal
-A brief description of your application. Should answer, as concisely as you can: what is it? what is its purpose?
+ClickerAdventureButBetter is an engaging idle clicker adventure Android application built with Jetpack Compose. The purpose of the app is to provide an entertaining progression-based RPG clicker experience where players defeat monsters, collect loot, and upgrade their hero's abilities.
 
 ## Quick-start
-How to install and launch your application. These should include instructions for:
-- (by Sprint 1) building and running your release from source code (i.e. your github repo)
+How to install and launch your application:
+- Clone the repository from GitHub.
+- Open the project in Android Studio.
+- Sync Gradle and run the app on an Android emulator or physical device (minimum SDK 24, target SDK 33).
 
 ## Screenshots of application
-- (by Sprint 1): Screenshots from each of the main screens of your application.
+- Main Game Screen
+- Upgrade & Shop Screen
+- Inventory & Equipment Screen
 
 ## Team members
-List each person's name and email address.
+- William
