@@ -19,8 +19,10 @@ How to install and launch your application:
 
 ## Screenshots of application
 - Main Game Screen
-- Upgrade & Shop Screen
 - Inventory & Equipment Screen
+
+
+![clicker Screen](Assets/img.png)
 
 ## Team members
 - William D Fraser
