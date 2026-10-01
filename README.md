@@ -22,7 +22,7 @@ How to install and launch your application:
 - Inventory & Equipment Screen
 
 
-![clicker Screen](Assets/img.png)
+![clicker Screen](Assets/Clicker_Screen.png)
 
 ## Team members
 - William D Fraser
