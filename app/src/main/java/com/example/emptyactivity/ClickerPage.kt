@@ -1,10 +1,6 @@
 package com.example.emptyactivity
 
 import com.example.emptyactivity.ui.theme.LightGreen
-import android.os.Bundle
-import androidx.activity.ComponentActivity
-import androidx.activity.compose.setContent
-//import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
@@ -32,6 +28,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.draw.clip
 import kotlinx.coroutines.delay
 import kotlin.math.roundToInt
+import androidx.compose.runtime.saveable.rememberSaveable
 
 /**
  * Displays the current points accumulated from clicking or an auto farm.
@@ -60,11 +57,11 @@ fun DisplayCurrentPoints(clickCount: Int, modifier: Modifier = Modifier){
  * **/
 @Composable
 fun ClickerPage(modifier: Modifier = Modifier) {
-    var clickCount by remember { mutableStateOf(0) }
-    var extraClickCount by remember { mutableStateOf(1) }
-    var extraClickCost by remember { mutableStateOf(10) }
-    var autoCost by remember { mutableStateOf(150) }
-    var autoFarmerCount by remember { mutableStateOf(0) }
+    var clickCount by rememberSaveable() { mutableStateOf(0) }
+    var extraClickCount by rememberSaveable() { mutableStateOf(1) }
+    var extraClickCost by rememberSaveable() { mutableStateOf(10) }
+    var autoCost by rememberSaveable() { mutableStateOf(150) }
+    var autoFarmerCount by rememberSaveable() { mutableStateOf(0) }
     val growthFactorExtra = 1.15
     val growthFactorAuto = 1.55
 

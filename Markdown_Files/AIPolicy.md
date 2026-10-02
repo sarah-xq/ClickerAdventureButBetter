@@ -18,4 +18,4 @@ YOU are solely responsible for the consequences.
 - Document AI in two ways:
   
     1. save a PDF or copy of the entire transcript between you and the AI
-    2. generate an 
+    2. generate an ADR after your conversation with AI
