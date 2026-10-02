@@ -28,7 +28,7 @@ How to install and launch your application:
 
 - Inventory & Equipment Screen
 
-![clicker Screen](Assets/clicker_page.png)
+![clicker Screen](Assets/Clicker_Screen.png)
 
 ## Team members
 
