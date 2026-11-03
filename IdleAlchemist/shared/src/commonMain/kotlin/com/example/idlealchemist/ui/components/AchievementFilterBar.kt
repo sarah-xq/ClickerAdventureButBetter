@@ -1,4 +1,4 @@
-package com.example.clickeradventure.ui.components
+package com.example.idlealchemist.ui.components
 
 import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.Arrangement
@@ -15,9 +15,9 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.example.asgn3_clickeradventure.ui.components.chunky
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
-import com.example.clickeradventure.util.AchievementSort
+import com.example.idlealchemist.ui.components.chunky
+import com.example.idlealchemist.theme.ClickerTheme
+import com.example.idlealchemist.util.AchievementSort
 
 /**
  * The search form on the achievements screen: a text box (the keywords "owned" and "unowned" work

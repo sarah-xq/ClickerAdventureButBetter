@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.ui.components
+package com.example.idlealchemist.ui.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -16,9 +16,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.example.asgn3_clickeradventure.model.ActivePotion
-import com.example.asgn3_clickeradventure.model.Potions
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
+import com.example.idlealchemist.model.ActivePotion
+import com.example.idlealchemist.model.Potions
+import com.example.idlealchemist.theme.ClickerTheme
 
 /** Gold chips showing each running potion and its remaining seconds. Stateless. */
 @Composable

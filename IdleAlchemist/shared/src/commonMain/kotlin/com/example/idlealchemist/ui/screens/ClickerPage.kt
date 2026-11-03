@@ -1,6 +1,6 @@
-package com.example.asgn3_clickeradventure.ui.screens
+package com.example.idlealchemist.ui.screens
 
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
+import com.example.idlealchemist.theme.ClickerTheme
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -18,13 +18,13 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.example.asgn3_clickeradventure.model.GameState
-import com.example.asgn3_clickeradventure.ui.components.ActivePotionsRow
-import com.example.asgn3_clickeradventure.ui.components.ApprenticeUpgrade
-import com.example.clickeradventure.ui.components.ClickArea
-import com.example.clickeradventure.ui.components.DisplayCurrentPoints
-import com.example.asgn3_clickeradventure.ui.components.ExtraClickUpgrade
-import com.example.clickeradventure.ui.components.UnlockBanner
+import com.example.idlealchemist.model.GameState
+import com.example.idlealchemist.ui.components.ActivePotionsRow
+import com.example.idlealchemist.ui.components.ApprenticeUpgrade
+import com.example.idlealchemist.ui.components.ClickArea
+import com.example.idlealchemist.ui.components.DisplayCurrentPoints
+import com.example.idlealchemist.ui.components.ExtraClickUpgrade
+import com.example.idlealchemist.ui.components.UnlockBanner
 
 /**
  * Main page for the Clicker Game. Stateless: the game lives in GameRepository, this page only

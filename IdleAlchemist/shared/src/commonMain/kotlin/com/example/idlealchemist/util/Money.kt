@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.util
+package com.example.idlealchemist.util
 
 /** Turns a price in cents into display text: 199 becomes "$1.99". */
 fun formatPrice(cents: Int): String {

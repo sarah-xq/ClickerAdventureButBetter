@@ -1,4 +1,4 @@
-package com.example.clickeradventure.theme
+package com.example.idlealchemist.theme
 
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.runtime.Immutable

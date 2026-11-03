@@ -1,4 +1,4 @@
-package com.example.clickeradventure.ui.components
+package com.example.idlealchemist.ui.components
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -12,9 +12,9 @@ import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.Shadow
 import androidx.compose.ui.unit.dp
-import com.example.asgn3_clickeradventure.ui.components.chunky
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
-import com.example.clickeradventure.util.formatCount
+import com.example.idlealchemist.ui.components.chunky
+import com.example.idlealchemist.theme.ClickerTheme
+import com.example.idlealchemist.util.formatCount
 
 /**
  * Steel banner at the top: current points plus points per second. Stateless.

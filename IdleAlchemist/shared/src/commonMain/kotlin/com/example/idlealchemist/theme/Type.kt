@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.theme
+package com.example.idlealchemist.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

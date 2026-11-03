@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.ui.components
+package com.example.idlealchemist.ui.components
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -27,8 +27,8 @@ import androidx.compose.ui.graphics.painter.Painter
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
-import com.example.clickeradventure.util.formatCount
+import com.example.idlealchemist.theme.ClickerTheme
+import com.example.idlealchemist.util.formatCount
 
 /**
  * Adventure Capitalist style row: icon with optional level badge, name, description, a bar showing

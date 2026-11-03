@@ -1,4 +1,4 @@
-package com.example.clickeradventure.ui.components
+package com.example.idlealchemist.ui.components
 
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.foundation.Image
@@ -24,12 +24,12 @@ import androidx.compose.ui.draw.scale
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.painter.Painter
 import androidx.compose.ui.unit.dp
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
-import com.example.asgn3_clickeradventure.ui.components.FloatingPop
-import com.example.asgn3_clickeradventure.ui.components.Pop
+import com.example.idlealchemist.theme.ClickerTheme
+import com.example.idlealchemist.ui.components.FloatingPop
+import com.example.idlealchemist.ui.components.Pop
 import org.jetbrains.compose.resources.painterResource
-import com.example.asgn3_clickeradventure.generated.resources.Res
-import com.example.asgn3_clickeradventure.generated.resources.cauldron
+import idlealchemist.shared.generated.resources.Res
+import idlealchemist.shared.generated.resources.cauldron
 
 /**
  * The big tappable image in the middle of the page. Shrinks while pressed and spawns floating

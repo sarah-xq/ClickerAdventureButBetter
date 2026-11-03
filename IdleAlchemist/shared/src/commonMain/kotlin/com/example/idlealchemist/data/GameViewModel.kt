@@ -1,8 +1,8 @@
-package com.example.asgn3_clickeradventure.data
+package com.example.idlealchemist.data
 
 import androidx.lifecycle.ViewModel
-import com.example.asgn3_clickeradventure.model.ContactMessage
-import com.example.asgn3_clickeradventure.model.GameState
+import com.example.idlealchemist.model.ContactMessage
+import com.example.idlealchemist.model.GameState
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.update

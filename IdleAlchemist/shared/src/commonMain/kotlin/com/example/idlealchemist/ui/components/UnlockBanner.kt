@@ -1,4 +1,4 @@
-package com.example.clickeradventure.ui.components
+package com.example.idlealchemist.ui.components
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
@@ -10,9 +10,9 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import com.example.asgn3_clickeradventure.ui.components.chunky
-import com.example.asgn3_clickeradventure.model.UnlockNotice
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
+import com.example.idlealchemist.ui.components.chunky
+import com.example.idlealchemist.model.UnlockNotice
+import com.example.idlealchemist.theme.ClickerTheme
 
 /** Gold "achievement unlocked" message that appears for a few seconds. Stateless. */
 @Composable

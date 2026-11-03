@@ -1,11 +1,11 @@
-package com.example.asgn3_clickeradventure.ui.components
+package com.example.idlealchemist.ui.components
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import org.jetbrains.compose.resources.painterResource
-import com.example.asgn3_clickeradventure.generated.resources.Res
-import com.example.asgn3_clickeradventure.generated.resources.icon_stir
-import com.example.asgn3_clickeradventure.generated.resources.icon_apprentice
+import idlealchemist.shared.generated.resources.Res
+import idlealchemist.shared.generated.resources.icon_stir
+import idlealchemist.shared.generated.resources.icon_apprentice
 
 /**
  * Stronger stir upgrade.

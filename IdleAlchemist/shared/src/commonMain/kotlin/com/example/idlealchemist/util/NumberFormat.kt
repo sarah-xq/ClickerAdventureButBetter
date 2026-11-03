@@ -1,4 +1,4 @@
-package com.example.clickeradventure.util
+package com.example.idlealchemist.util
 
 /** Short display form for big numbers (12.3K, 1.5M). Uses only common Kotlin, no String.format. */
 fun formatCount(n: Int): String = when {

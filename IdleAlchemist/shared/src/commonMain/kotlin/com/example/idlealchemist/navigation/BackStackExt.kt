@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.navigation
+package com.example.idlealchemist.navigation
 
 import androidx.navigation3.runtime.NavKey
 

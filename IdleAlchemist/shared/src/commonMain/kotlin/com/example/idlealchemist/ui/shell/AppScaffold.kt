@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.ui.shell
+package com.example.idlealchemist.ui.shell
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -25,9 +25,9 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation3.runtime.NavKey
-import com.example.asgn3_clickeradventure.navigation.Route
-import com.example.asgn3_clickeradventure.navigation.TopLevelDestination
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
+import com.example.idlealchemist.navigation.Route
+import com.example.idlealchemist.navigation.TopLevelDestination
+import com.example.idlealchemist.theme.ClickerTheme
 
 /** Width at which the layout switches from a bottom bar (phone) to a side rail (desktop / tablet). */
 private val WideLayoutBreakpoint = 600.dp

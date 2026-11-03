@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.ui.components
+package com.example.idlealchemist.ui.components
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -10,7 +10,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
+import com.example.idlealchemist.theme.ClickerTheme
 
 /** Steel title banner used at the top of the achievements and contact screens. Stateless. */
 @Composable

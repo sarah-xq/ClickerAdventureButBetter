@@ -1,13 +1,13 @@
-package com.example.asgn3_clickeradventure.theme
+package com.example.idlealchemist.theme
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.ReadOnlyComposable
 import androidx.compose.runtime.staticCompositionLocalOf
-import com.example.clickeradventure.theme.AlchemyColorScheme
-import com.example.clickeradventure.theme.AlchemyColors
-import com.example.clickeradventure.theme.ClickerColors
+import com.example.idlealchemist.theme.AlchemyColorScheme
+import com.example.idlealchemist.theme.AlchemyColors
+import com.example.idlealchemist.theme.ClickerColors
 
 private val LocalClickerColors = staticCompositionLocalOf { AlchemyColors }
 

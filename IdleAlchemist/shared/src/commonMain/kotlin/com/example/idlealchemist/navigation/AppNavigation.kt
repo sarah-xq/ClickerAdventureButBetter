@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.navigation
+package com.example.idlealchemist.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
@@ -8,15 +8,15 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation3.runtime.entryProvider
 import androidx.navigation3.runtime.rememberNavBackStack
 import androidx.navigation3.ui.NavDisplay
-import com.example.asgn3_clickeradventure.data.GameViewModel
-import com.example.asgn3_clickeradventure.ui.screens.AchievementsScreen
-import com.example.asgn3_clickeradventure.ui.screens.ClickerPage
-import com.example.asgn3_clickeradventure.ui.screens.ContactScreen
-import com.example.asgn3_clickeradventure.ui.screens.MessageDetailScreen
-import com.example.asgn3_clickeradventure.ui.screens.MessagesScreen
-import com.example.asgn3_clickeradventure.ui.screens.ShopScreen
-import com.example.asgn3_clickeradventure.ui.shell.AppScaffold
-import com.example.asgn3_clickeradventure.navigation.navigateTopLevel
+import com.example.idlealchemist.data.GameViewModel
+import com.example.idlealchemist.ui.screens.AchievementsScreen
+import com.example.idlealchemist.ui.screens.ClickerPage
+import com.example.idlealchemist.ui.screens.ContactScreen
+import com.example.idlealchemist.ui.screens.MessageDetailScreen
+import com.example.idlealchemist.ui.screens.MessagesScreen
+import com.example.idlealchemist.ui.screens.ShopScreen
+import com.example.idlealchemist.ui.shell.AppScaffold
+import com.example.idlealchemist.navigation.navigateTopLevel
 import kotlinx.coroutines.delay
 
 /**

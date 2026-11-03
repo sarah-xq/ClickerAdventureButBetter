@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.ui.screens
+package com.example.idlealchemist.ui.screens
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -18,14 +18,14 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.example.asgn3_clickeradventure.generated.resources.Res
-import com.example.asgn3_clickeradventure.generated.resources.icon_potion
-import com.example.asgn3_clickeradventure.model.GameState
-import com.example.asgn3_clickeradventure.model.Potions
-import com.example.asgn3_clickeradventure.ui.components.GooglePaySheet
-import com.example.asgn3_clickeradventure.ui.components.PurchaseCard
-import com.example.asgn3_clickeradventure.ui.components.ScreenHeader
-import com.example.asgn3_clickeradventure.util.formatPrice
+import idlealchemist.shared.generated.resources.Res
+import idlealchemist.shared.generated.resources.icon_potion
+import com.example.idlealchemist.model.GameState
+import com.example.idlealchemist.model.Potions
+import com.example.idlealchemist.ui.components.GooglePaySheet
+import com.example.idlealchemist.ui.components.PurchaseCard
+import com.example.idlealchemist.ui.components.ScreenHeader
+import com.example.idlealchemist.util.formatPrice
 import org.jetbrains.compose.resources.painterResource
 
 /**

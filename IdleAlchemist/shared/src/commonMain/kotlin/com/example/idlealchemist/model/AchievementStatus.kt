@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.model
+package com.example.idlealchemist.model
 
 /** An achievement together with the player's progress on it, ready to display. */
 data class AchievementStatus(

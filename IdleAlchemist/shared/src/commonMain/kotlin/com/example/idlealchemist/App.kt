@@ -14,8 +14,8 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.asgn3_clickeradventure.navigation.AppNavigation
-import com.example.asgn3_clickeradventure.theme.ClickerAdventureTheme
+import com.example.idlealchemist.navigation.AppNavigation
+import com.example.idlealchemist.theme.ClickerAdventureTheme
 import org.jetbrains.compose.resources.painterResource
 
 import idlealchemist.shared.generated.resources.Res

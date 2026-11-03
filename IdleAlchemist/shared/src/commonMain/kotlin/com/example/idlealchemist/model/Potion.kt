@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.model
+package com.example.idlealchemist.model
 
 /** What a potion does while it is active. */
 sealed interface PotionEffect {

@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.ui.components
+package com.example.idlealchemist.ui.components
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -30,14 +30,14 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
-import com.example.clickeradventure.theme.AbyssalSlate
-import com.example.clickeradventure.theme.AetherCyan
-import com.example.clickeradventure.theme.AgedVellum
-import com.example.clickeradventure.theme.DustyAsh
-import com.example.clickeradventure.theme.ForgedSteel
-import com.example.clickeradventure.theme.IronKeep
-import com.example.clickeradventure.theme.WitchHazel
-import com.example.clickeradventure.theme.WornLeather
+import com.example.idlealchemist.theme.AbyssalSlate
+import com.example.idlealchemist.theme.AetherCyan
+import com.example.idlealchemist.theme.AgedVellum
+import com.example.idlealchemist.theme.DustyAsh
+import com.example.idlealchemist.theme.ForgedSteel
+import com.example.idlealchemist.theme.IronKeep
+import com.example.idlealchemist.theme.WitchHazel
+import com.example.idlealchemist.theme.WornLeather
 import kotlinx.coroutines.delay
 
 private val SheetInk = AgedVellum

@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.model
+package com.example.idlealchemist.model
 
 /** One message the player "sent" from the Contact form. Immutable. */
 data class ContactMessage(

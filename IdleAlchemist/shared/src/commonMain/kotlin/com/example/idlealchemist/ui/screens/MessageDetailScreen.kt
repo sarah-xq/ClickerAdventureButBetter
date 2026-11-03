@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.ui.screens
+package com.example.idlealchemist.ui.screens
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -18,11 +18,11 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import com.example.asgn3_clickeradventure.model.ContactMessage
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
-import com.example.asgn3_clickeradventure.ui.components.RemoteImage
-import com.example.asgn3_clickeradventure.ui.components.ScreenHeader
-import com.example.asgn3_clickeradventure.ui.components.chunky
+import com.example.idlealchemist.model.ContactMessage
+import com.example.idlealchemist.theme.ClickerTheme
+import com.example.idlealchemist.ui.components.RemoteImage
+import com.example.idlealchemist.ui.components.ScreenHeader
+import com.example.idlealchemist.ui.components.chunky
 
 /**
  * Screen 2 of the flow: shows ONE message. The message id arrives as a navigation parameter

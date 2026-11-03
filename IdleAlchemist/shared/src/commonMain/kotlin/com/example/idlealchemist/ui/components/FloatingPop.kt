@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.ui.components
+package com.example.idlealchemist.ui.components
 
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.tween
@@ -13,7 +13,7 @@ import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Shadow
 import androidx.compose.ui.unit.dp
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
+import com.example.idlealchemist.theme.ClickerTheme
 
 /** One floating "+N" number. Rises and fades over 800 ms, then calls [onDone] so the caller can remove it. */
 data class Pop(val id: Long, val amount: Int, val dx: Int)

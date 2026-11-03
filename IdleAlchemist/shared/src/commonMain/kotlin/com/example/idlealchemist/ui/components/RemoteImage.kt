@@ -1,12 +1,12 @@
-package com.example.asgn3_clickeradventure.ui.components
+package com.example.idlealchemist.ui.components
 
 import androidx.compose.foundation.Image
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
 import coil3.compose.AsyncImage
-import com.example.asgn3_clickeradventure.generated.resources.Res
-import com.example.asgn3_clickeradventure.generated.resources.cauldron
+import idlealchemist.shared.generated.resources.Res
+import idlealchemist.shared.generated.resources.cauldron
 import org.jetbrains.compose.resources.painterResource
 
 /**

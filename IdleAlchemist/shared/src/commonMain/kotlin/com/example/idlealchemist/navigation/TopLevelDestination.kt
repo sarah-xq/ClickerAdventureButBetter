@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.navigation
+package com.example.idlealchemist.navigation
 
 /**
  * One entry in the navigation bar / rail.

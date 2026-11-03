@@ -1,6 +1,6 @@
-package com.example.asgn3_clickeradventure.ui.screens
+package com.example.idlealchemist.ui.screens
 
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
+import com.example.idlealchemist.theme.ClickerTheme
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -24,15 +24,15 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import com.example.asgn3_clickeradventure.model.Achievements
-import com.example.asgn3_clickeradventure.model.GameState
-import com.example.asgn3_clickeradventure.model.achievementStatuses
-import com.example.clickeradventure.ui.components.AchievementCard
-import com.example.clickeradventure.ui.components.AchievementFilterBar
-import com.example.asgn3_clickeradventure.ui.components.ScreenHeader
-import com.example.clickeradventure.util.AchievementSort
-import com.example.clickeradventure.util.filterAchievements
-import com.example.clickeradventure.util.sortAchievements
+import com.example.idlealchemist.model.Achievements
+import com.example.idlealchemist.model.GameState
+import com.example.idlealchemist.model.achievementStatuses
+import com.example.idlealchemist.ui.components.AchievementCard
+import com.example.idlealchemist.ui.components.AchievementFilterBar
+import com.example.idlealchemist.ui.components.ScreenHeader
+import com.example.idlealchemist.util.AchievementSort
+import com.example.idlealchemist.util.filterAchievements
+import com.example.idlealchemist.util.sortAchievements
 
 /**
  * Achievements screen: every goal in the game with the player's progress. The search box filters

@@ -1,4 +1,4 @@
-package com.example.clickeradventure.ui.components
+package com.example.idlealchemist.ui.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -23,9 +23,9 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.asgn3_clickeradventure.ui.components.chunky
-import com.example.asgn3_clickeradventure.model.AchievementStatus
-import com.example.asgn3_clickeradventure.theme.ClickerTheme
+import com.example.idlealchemist.ui.components.chunky
+import com.example.idlealchemist.model.AchievementStatus
+import com.example.idlealchemist.theme.ClickerTheme
 
 /**
  * One achievement: badge, title, description, owned/locked tag and a progress bar. Tapping expands

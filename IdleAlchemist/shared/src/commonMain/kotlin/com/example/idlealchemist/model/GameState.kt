@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.model
+package com.example.idlealchemist.model
 
 /**
  * Lifetime counters. They only ever go up, which is what lets an achievement be deleted and earned

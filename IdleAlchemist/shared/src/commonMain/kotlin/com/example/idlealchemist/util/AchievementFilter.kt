@@ -1,6 +1,6 @@
-package com.example.clickeradventure.util
+package com.example.idlealchemist.util
 
-import com.example.asgn3_clickeradventure.model.AchievementStatus
+import com.example.idlealchemist.model.AchievementStatus
 
 enum class AchievementSort(val label: String) {
     Default("Default"),

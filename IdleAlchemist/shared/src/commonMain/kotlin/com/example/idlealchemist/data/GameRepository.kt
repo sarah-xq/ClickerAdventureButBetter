@@ -1,10 +1,10 @@
-package com.example.asgn3_clickeradventure.data
+package com.example.idlealchemist.data
 
-import com.example.asgn3_clickeradventure.model.ActivePotion
-import com.example.asgn3_clickeradventure.model.Achievements
-import com.example.asgn3_clickeradventure.model.GameState
-import com.example.asgn3_clickeradventure.model.Potions
-import com.example.asgn3_clickeradventure.model.withUnlocks
+import com.example.idlealchemist.model.ActivePotion
+import com.example.idlealchemist.model.Achievements
+import com.example.idlealchemist.model.GameState
+import com.example.idlealchemist.model.Potions
+import com.example.idlealchemist.model.withUnlocks
 import kotlin.math.roundToInt
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

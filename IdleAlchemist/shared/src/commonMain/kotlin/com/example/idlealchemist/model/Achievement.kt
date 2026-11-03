@@ -1,4 +1,4 @@
-package com.example.asgn3_clickeradventure.model
+package com.example.idlealchemist.model
 
 /**
  * What the player has to do to earn an achievement. Each type reads one cumulative counter from
