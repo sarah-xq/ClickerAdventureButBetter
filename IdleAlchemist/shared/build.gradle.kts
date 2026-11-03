@@ -5,7 +5,7 @@ plugins {
     alias(libs.plugins.androidMultiplatformLibrary)
     alias(libs.plugins.composeMultiplatform)
     alias(libs.plugins.composeCompiler)
-    kotlin("plugin.serialization") version "2.2.20"
+    alias(libs.plugins.kotlinSerialization)
 }
 
 kotlin {
@@ -35,10 +35,6 @@ kotlin {
             implementation(libs.compose.uiTooling)
         }
         commonMain.dependencies {
-            implementation("androidx.navigation3:navigation3-runtime:1.1.1")
-            implementation("org.jetbrains.androidx.navigation3:navigation3-ui:1.1.1")
-            implementation("io.coil-kt.coil3:coil-compose:3.6.3")
-            implementation("io.coil-kt.coil3:coil-network-okhttp:3.6.3")
             implementation(libs.compose.runtime)
             implementation(libs.compose.foundation)
             implementation(libs.compose.material3)
